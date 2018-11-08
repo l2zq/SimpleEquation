@@ -1,0 +1,2 @@
+# SimpleEquation
+usage: Parse('1+2*3-4/5')
